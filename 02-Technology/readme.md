@@ -52,11 +52,33 @@ Let's say you deploy an EC2 instance, how to acces ?
         * You have a regulatory or corporate compliance requirements around tenancy model
     * Save up to 70% off On-Demand prices
 
-* Sabings Plan
+* Savings Plan
     * Allows you to commit to compute usage (per hour) for 1 or 3 **years**
     * Use when..
         * Want to lower your bill aceoss multiple compute services
         * Want the flexibility to change compute services, instance types, operating systems or Regions.
     * Save up to 72% off On-demand prices
     * Savings can be shared across various compute services like EC2, Fargate and Lambda.
+
+### Elastic Load Balancing
+
+Automatically distributes your **incoming** application traffic across multiple EC2 instances
+
+* Classic Load Balancers
+* Application Load Balancers
+* Gateway Load Balancers
+* Network Load Balancers
+
+### Auto-Scaling
+
+Adds or replaces EC2 instances automatically across AZs, **based on need and changing demand**
+
+
+## Server Migration Service (SMS)
+
+Allows you to migrate on-premises server to AWS
+
+* Migrates **on.premises** servers to AWS
+* Server saved as a new **Amazon Machine Image** (AMI)
+* Use **AMI** to launch servers as **EC2** instances
 
