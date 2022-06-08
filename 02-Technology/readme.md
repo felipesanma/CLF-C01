@@ -23,3 +23,16 @@ Let's say you deploy an EC2 instance, how to acces ?
 
 * On-Demand
     * You are billed **down to the second** based on the instance type
+    * Use when..
+        * Low cost without any upfront payment
+        * Unpredictable workloads that **can't** be interrupted
+        * Applications under development
+        * Workloads will **not** run longer than a year
+
+* Spot
+    * Take advantage of **unused** EC2 capacity. Your requested is fulfilled **only** if capacity is available.
+    * Use when..
+        * Not concerned about the **start** or **stop** time of your application
+        * Workloads **can** be interrupted
+    * Cheapest option -> save up to 90% off On-Demand prices
+
