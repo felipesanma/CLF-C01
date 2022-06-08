@@ -19,3 +19,7 @@ Let's say you deploy an EC2 instance, how to acces ?
 * AWS System Manager
     * Allows you to manage your EC2 instances via a web browser or the AWS CLI
 
+### EC2 Pricing Options
+
+* On-Demand
+    * You are billed **down to the second** based on the instance type
