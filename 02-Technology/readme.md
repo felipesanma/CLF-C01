@@ -42,4 +42,14 @@ Let's say you deploy an EC2 instance, how to acces ?
         * Your application requires a **capacity reservation**
         * You can pay mone **upfront** in order to receive a discount on On-Demand prices.
     * You are required to sign a contract
+    * Save up to 75% off On-Demand prices
+
+* Dedicated Hosts
+    * Allow you to pay for a physical server that is fully dedicated to running your instances.
+    * The server is not shared with other customers
+    * Use when..
+        * You want to **bring your own** server-bound software **license** (Microsoft or Oracle)
+        * You have a regulatory or corporate compliance requirements around tenancy model
+    * Save up to 70% off On-Demand prices
+
 
