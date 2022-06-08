@@ -82,3 +82,16 @@ Allows you to migrate on-premises server to AWS
 * Server saved as a new **Amazon Machine Image** (AMI)
 * Use **AMI** to launch servers as **EC2** instances
 
+## Deployment and Infrastructure Management Services
+
+### CloudFormation
+
+
+
+### ElasticBeanstalk
+
+
+
+### OpsWorks
+
+
