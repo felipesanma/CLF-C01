@@ -36,3 +36,10 @@ Let's say you deploy an EC2 instance, how to acces ?
         * Workloads **can** be interrupted
     * Cheapest option -> save up to 90% off On-Demand prices
 
+* Reserved Instances
+    * Allow you to commit to a specific instance type in a particular Region for 1 or 3 **years**
+    * Use When..
+        * Your application requires a **capacity reservation**
+        * You can pay mone **upfront** in order to receive a discount on On-Demand prices.
+    * You are required to sign a contract
+
