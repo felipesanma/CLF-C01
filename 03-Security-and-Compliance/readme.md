@@ -179,7 +179,60 @@ Software based security tools available to help you **monitor** and **protect** 
         * Uncoverss PII
 
 
+* Config
+    * Allows you to assess, audit, and evaluate the configuration of your resources.
+        * Track configuration changes over the time
+        * Delivers configuration history file to S3
+        * Notificactions vis SNS of every configuration change.
+
+* GuardDuty
+    * Threath detection system that uncovers unauthorized behavior
+        * Built-in detection for EC2, S3, and IAM
+        * Reviews CloudTrail, VPC Flow Logs, and DNS logs
+
+* Inspector
+    * Works with EC2 instances to uncover and report vulnerabilities
+        * Agent installed on EC2 instance
+        * Report vulnerabilities found
+        * Checks access from the internet, remote root login, vulnerable software versions
+
+* Artifact
+    * Offers on-demand access to AWS security and compliance reports
+        * Central repository for compliance reports from third-party auditors
+            * Service Organization Controls (SOC) reports
+            * Payment Card Industry (PCI) reports
+
+* Cognito
+    * Helps you control access to mobile and web applications
+    * Provides authentication and authorization
 
 
+## Utilizing Data Encryption and Secrets Management Services
 
+Data encryption **encode** data so it cannot be read by unauthorized users
 
+### Data in flight vs at rest
+
+* Data in flight; data that is **moving** from one location to another
+* Data at rest; data that is **inactive** or stored for **later use**
+
+## Services
+
+* Key Management Service (KMS)
+    * Allows you to generate and store encryption keys
+        * Key generator
+        * Store and control keys
+        * AWS manages encryption keys
+        * Automatically enabled for certain services
+
+* CloudHSM (Cloud Hardware Security Module)
+    * Hardware security module used to generate encryption keys
+        * Dedicated hardware for security
+        * Generate and manage your **own** encryption keys
+        * AWS does **not** access to your keys
+
+* Secrets Manager
+    * Allows you to manage and retrive **secrets** (passwords or keys)
+        * Rotate, manage, and retrieve secrets
+        * Encrypt secrets at rest
+        
