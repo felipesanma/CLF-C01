@@ -105,4 +105,77 @@ The root organization pays for all member accounts using **consolidated billing*
 
 Support you as you preapre for planned events, product launches, and migrations.
 
+There are expert teams available that help you **manage** and **operate** your cloud environment.
 
+**Managed Services**: helps you efficiently operate your AWs infrastructure.
+* Augments your internal staff by providing additional resources
+* Reduce operational risks and overhead
+
+**Professional Services**: helps enterprise customers move to a cloud-based operating model
+* Proposes solutions
+* Architects solutions
+* Implement solutions
+
+**Personal Health Dashboards**: alerts you to events that might impact your AWS environment
+
+## Support Plans
+
+### Support Case Types
+
+* **Account and billing**: account-related and billing cases can be opened by all customers
+* **Service limit increases**:Deafult service quota (or limit) increases can be opened by all customer
+* **Technical support**: only for customer on Dvelopment, Business, or Enterprise plans
+
+### Basic
+
+Is included for **free** for all AWS accounts
+* Account and billing support cases
+* Service limit increases
+* 24/7 access via **email** only
+
+### Developer
+
+Starts at **$29** a month, recommended for testing and development
+
+* Account and billing support cases
+* Service limit increases
+* Technical support
+* 1 Primary contact
+* Cloud Support Associate business-hours access via **email** only
+* Response Times
+    * <24 hours: general guidance
+    * <12 hours: system impaired
+
+### Business
+
+Starts at **$100** a month, recommended por production workloads
+
+* Account and billing support cases
+* Service limit increases
+* Technical support
+* **Unlimited** contact
+* **Full Set** of Trusted Advisor Checks
+* Cloud Support Associate 24/7 access via **email, phone, or chat**
+* Response Times
+    * <24 hours: general guidance
+    * <12 hours: system impaired
+    * <4 hours: production system impaired
+    * <1 hour: Production system down
+
+### Enterprise
+
+Starts at **$15,000** a month, recommended for business or mission-cirtical production workloads
+
+* Account and billing support cases
+* Service limit increases
+* Technical support
+* **Unlimited** contact
+* Technical Account Manager (**TAM**)
+* **Full Set** of Trusted Advisor Checks
+* Cloud Support Associate 24/7 access via **email, phone, or chat**
+* Response Times
+    * <24 hours: general guidance
+    * <12 hours: system impaired
+    * <4 hours: production system impaired
+    * <1 hour: production system down
+    * <15 minutes: business-critical system down
