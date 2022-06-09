@@ -150,14 +150,35 @@ Lists all users in your account and the status of thier various credentials
 
 Software based security tools available to help you **monitor** and **protect** your resources
 
-**Firewalls** prevent unauthorized access to your networks by inpsecting incoming and outgoing traffic against security rules you've defined
+**Firewalls**: prevent unauthorized access to your networks by inpsecting incoming and outgoing traffic against security rules you've defined
 
 * WAF (Web Application Firewall)
     * Helps protecting your web applications against common web attacks / common attack patterns
         * SQL injection
         * Cross-site scripting
 
-**DDoS (Distributed Denial of Services)**
+**DDoS (Distributed Denial of Services)**: A DDoS attack causes a traffic jam on a website or web application in an attempt to cause it to crash
+
+* Shield
+    * Is a managed DDoS protection service
+        * *Always-on* detection
+        * Shield standard is **free**
+            * Provides **free** protection against common and frequently occurring attacks
+        * Shield advanced
+            * Provides enhanced protections and 24/7 access to AWS experrts for a **free**
+            * Supported on..
+                * CloudFront
+                * Route 53
+                * ELB
+                * AWS Global Accelerator
+
+* Macie
+    * Discover and protct sensitive data
+        * Uses machine learning
+        * Evalutes S3 environment
+        * Uncoverss PII
+
+
 
 
 
