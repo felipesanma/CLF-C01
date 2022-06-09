@@ -109,3 +109,38 @@ Allows you to use **Chef** or **Puppet** to automate the configuration of your s
 * Deploy code and manage applications
 * Manage on-premises servers or **EC2 instances**
 
+## Exploring Auditing, Monitoring, and Logging Services
+
+Give you insight into how well your systems are performing and help you proactively find and resolve errors
+
+### CloudWatch
+
+Collection of services that help you monitor and observe your cloud resources in real-time.
+
+* Collects **metrics**, **logs** and **events**
+* Detect **anomalies** in your environment
+* Set **alarms**
+* **Visualize** logs
+
+1. CloudWatch Alarms
+2. CloudWatch Logs
+3. CloudWatch Metrics
+    * time-series data.
+4. CloudWatch Events
+    * triger an event based on a condition
+
+### Cloudtrail
+
+Tracks user activity and API calls within your account
+
+* Log and reatin account activity
+* Track activity throug the console, SDKs, and CLI
+* Identify which user made changes
+* Detect unusual activity in your account
+
+## Amazon Workspaces
+
+Allows you to host virtual desktops in the cloud
+
+* Virtualize Windows or Linux desktops
+* Enables employees to work from home
