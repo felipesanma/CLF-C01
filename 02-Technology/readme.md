@@ -84,14 +84,28 @@ Allows you to migrate on-premises server to AWS
 
 ## Deployment and Infrastructure Management Services
 
+This services help you quickly stand up new applications, automate the management of infrastructure, and provide real-time visibility into system health
+
 ### CloudFormation
 
+Allos you to provision AWS resources using Infrastructure as a Code (IaaC)
 
+* Provides a repeatable process fro provisioning resources
+* Works with most AWS services
+* Create templates for the resources you want to provision
 
 ### ElasticBeanstalk
 
+Allows you to deploy your web applications and web services to **AWS**
 
+* Orchestration service that provisions resources
+* Automatically handles the deployment
+* Monitors application health via a health dashboard
 
 ### OpsWorks
 
+Allows you to use **Chef** or **Puppet** to automate the configuration of your servers and deploy code
+
+* Deploy code and manage applications
+* Manage on-premises servers or **EC2 instances**
 
