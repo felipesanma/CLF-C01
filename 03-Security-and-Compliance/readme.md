@@ -146,3 +146,19 @@ Control access to your AWS services and resources
 Lists all users in your account and the status of thier various credentials
 
 
+## Application Security services
+
+Software based security tools available to help you **monitor** and **protect** your resources
+
+**Firewalls** prevent unauthorized access to your networks by inpsecting incoming and outgoing traffic against security rules you've defined
+
+* WAF (Web Application Firewall)
+    * Helps protecting your web applications against common web attacks / common attack patterns
+        * SQL injection
+        * Cross-site scripting
+
+**DDoS (Distributed Denial of Services)**
+
+
+
+
